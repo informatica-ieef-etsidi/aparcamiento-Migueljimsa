@@ -1,3 +1,8 @@
+//Programa para reservar plaza de aparcamiento, dejarla libre o ver su estado, pone la hora en el menu, colores personalizados.
+// Desarrolador: Miguel Jiménez Sarria
+
+
+
 #include <stdio.h>
 #include <stdlib.h> 
 #include <windows.h> 
