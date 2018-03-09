@@ -195,8 +195,9 @@ void main() {
 
 		}
 		printf("Volviendo al menu\n");
-		Sleep(500);
+		Sleep(1000);
 		system("cls");
+		getchar();
 	}
 	
 }
